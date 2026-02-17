@@ -1,0 +1,31 @@
+{
+  "metaTitle": "ABDUCTED FLOW",
+  "metaDescription": "Publishing / archive. Songs, texts, and transmissions.",
+  "wordmark": "ABDUCTED FLOW",
+  "tagline": "Publishing / archive. Language as artifact.",
+  "heroLine": "A library of signals.",
+  "heroSub": "Publishing administration and a selective archive of texts, lyrics, and long-form notes.",
+  "nav": [
+    { "label": "Catalog", "href": "#catalog", "external": false },
+    { "label": "Archive", "href": "#archive", "external": false },
+    { "label": "Contact", "href": "mailto:contact@abductedflow.com", "external": true }
+  ],
+  "sections": [
+    {
+      "kicker": "catalog",
+      "title": "Works",
+      "body": "Registered compositions and controlled splits.",
+      "links": []
+    },
+    {
+      "kicker": "archive",
+      "title": "Archive",
+      "body": "Selective publication. No feed. No noise.",
+      "links": [
+        { "label": "contactrecordz.com", "href": "https://contactrecordz.com", "external": true }
+      ]
+    }
+  ],
+  "footerLeft": "ABDUCTED FLOW",
+  "footerRight": "publishing / archive"
+}
