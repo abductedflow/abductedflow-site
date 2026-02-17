@@ -6,9 +6,16 @@
   "heroLine": "A library of signals.",
   "heroSub": "Publishing administration and a selective archive of texts, lyrics, and long-form notes.",
   "nav": [
-    { "label": "Catalog", "href": "#catalog", "external": false },
-    { "label": "Archive", "href": "#archive", "external": false },
-    { "label": "Contact", "href": "mailto:contact@abductedflow.com", "external": true }
+    {
+      "label": "CONTACT RECORDZ",
+      "href": "https://contactrecordz.com",
+      "external": true
+    },
+    {
+      "label": "HVLI3N",
+      "href": "https://hvli3n.com",
+      "external": true
+    }
   ],
   "sections": [
     {
@@ -22,7 +29,11 @@
       "title": "Archive",
       "body": "Selective publication. No feed. No noise.",
       "links": [
-        { "label": "contactrecordz.com", "href": "https://contactrecordz.com", "external": true }
+        {
+          "label": "contactrecordz.com",
+          "href": "https://contactrecordz.com",
+          "external": true
+        }
       ]
     }
   ],
